@@ -1,3 +1,3 @@
-- 👨‍🎓 Tutor and Student Assistant @ Univie
-- 📊 Main interest: Data Science, Data Mining, Data Analysis
+- 👨‍🎓 Data Science Master's Student @ University of Helsinki
+- 📊 Main interest: Unsupervised Learning, Data Mining, Data Analysis
 - ⚡ Favourite quote: "One person's noise could be another person's signal."
