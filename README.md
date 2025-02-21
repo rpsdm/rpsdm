@@ -1,3 +1,3 @@
 - 👨‍🎓 Data Science Master's Student @ University of Helsinki
-- 📊 Main interest: Unsupervised Learning, Data Mining, Data Analysis
+- 📊 Interests: Data Mining, Machine Learning, Social Sustainabílity, Sustainability in Education
 - ⚡ Favourite quote: "One person's noise could be another person's signal."
